@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#tfclc:lost_city_biomes",
+  "features": "lostcities:lostcities",
+  "step": "raw_generation"
+}
